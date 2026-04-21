@@ -1,0 +1,11 @@
+tensorflow>=2.15.0
+keras-cv>=0.9.0
+kagglehub
+streamlit
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
+Pillow
+split-folders

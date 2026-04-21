@@ -1,0 +1,7 @@
+venv/
+dataset/
+saved_models/
+results/
+__pycache__/
+*.pyc
+.DS_Store
